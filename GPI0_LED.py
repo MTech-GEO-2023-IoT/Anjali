@@ -17,4 +17,4 @@ while a<=10:
   #Set GPIO Pin to Low
   GPIO.output(17,GPIO.LOW)
   time.sleep(1)
-  a=a+3
+  a=a+10
